@@ -15,6 +15,15 @@ const projectsData = [
     demo: "https://quiz-website0.netlify.app/",  // optional
     github: "https://github.com/Aatish0049/Quiz-App"
   },
+  {
+  title: "Todo List Application",
+  shortDescription: "Simple and responsive todo list app.",
+  description: "A clean and functional Todo List built with React that allows users to add, delete, and mark tasks as completed. It helps manage daily tasks efficiently with a user-friendly interface.",
+  tech: "HTML, JavaScript, CSS",
+  demo: "https://spectacular-empanada-dc0663.netlify.app/",  
+  github: "https://github.com/Aatish0049/To-do-list"
+},
+
    {
     title: "Project Bazar",
     shortDescription: "Next.js based marketplace to buy/sell projects.",
